@@ -1,6 +1,6 @@
 # Learn PHP The Right Way
 
-Personal notes for [Program With Gio](https://www.youtube.com/@ProgramWithGio) YouTube channel's course [Learn PHP The Right Way](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) .
+Notes for [Program With Gio](https://www.youtube.com/@ProgramWithGio) YouTube channel's course [Learn PHP The Right Way](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) . It's basically a transcription from the videos with the code examples.
 
 As I already know the basics, I started to note from the second part (it's just missing 2.2 PHP Classes & Objects) to remember key concepts and to learn PHP8 new features.
 
