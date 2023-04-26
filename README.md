@@ -6,7 +6,7 @@ As I already know the basics, I started to note from the second part (it's just 
 
 ## Docker
 
-This repo already contains ready to use Dockerfile with PHP 8.0.2 and Nginx.
+This repo already contains ready to use Docker config files with PHP 8.0.2 and Nginx.
 
 ## Notes
 
